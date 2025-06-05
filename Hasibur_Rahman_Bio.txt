@@ -5,3 +5,13 @@ Birthplace: Comilla, Bangladesh
 Current Address: Tangail, Bangladesh
 Email: rahmanhasibur@ymail.com
 WhatsApp: +8801689536516
+<section id="about">
+  <h2>Founder & CEO</h2>
+  <img src="Hasibur_Rahman_Photo.jpg" alt="Hasibur Rahman" style="width:200px;border-radius:12px;">
+  <p><strong>Name:</strong> Hasibur Rahman</p>
+  <p><strong>Position:</strong> Founder & CEO, Market Eagle</p>
+  <p><strong>Education:</strong> EMBA</p>
+  <p><strong>Location:</strong> Born in Comilla, now in Tangail, Bangladesh</p>
+  <p><strong>Email:</strong> rahmanhasibur@ymail.com</p>
+  <p><strong>WhatsApp:</strong> +8801689536516</p>
+</section>
